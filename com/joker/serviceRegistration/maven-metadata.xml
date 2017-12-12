@@ -40,7 +40,8 @@
       <version>5.2-SNAPSHOT</version>
       <version>5.3-SNAPSHOT</version>
       <version>5.4-SNAPSHOT</version>
+      <version>5.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20171212132202</lastUpdated>
+    <lastUpdated>20171212133934</lastUpdated>
   </versioning>
 </metadata>
