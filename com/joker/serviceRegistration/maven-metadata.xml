@@ -50,7 +50,8 @@
       <version>6.3-SNAPSHOT</version>
       <version>6.4-SNAPSHOT</version>
       <version>6.5-SNAPSHOT</version>
+      <version>6.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180408042617</lastUpdated>
+    <lastUpdated>20180408051543</lastUpdated>
   </versioning>
 </metadata>
